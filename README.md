@@ -1,7 +1,7 @@
 change-maker
 ================
 
-A beautiful practice on recursion.  This is why I love computer science. 
+Some beautiful recursion :)
 
 Gives the amount of quarters, dimes, nickels a cent amount can be split into.  
 
