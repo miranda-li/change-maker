@@ -30,7 +30,7 @@ public class ChangeMaker {
 	}
     }
 
-    /**Recursively prints the change.  The max the the amount you are reducing in this step, and you cannot increase it for the next step (so if you reduce by dimes for this step, you have to reduce by dimes or nickels, not quarters, for the next step).  A
+    /** Recursively prints the change.  The max the the amount you are reducing in this step, and you cannot increase it for the next step (so if you reduce by dimes for this step, you have to reduce by dimes or nickels, not quarters, for the next step).  A
        @param amount the amount
        @param max the max to reduce at this step
        @param s the String to add on to at this step.
